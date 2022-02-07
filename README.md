@@ -1,4 +1,4 @@
-I am a professor of English at the University of Virginia who specializes in nineteenth-century women's culture, life narrative, and digital humanities. I co-direct the Scholars' Lab and serve as Faculty Director of the Graduate Digital Humanities Certificate.
+I am a professor of English at the University of Virginia who specializes in nineteenth-century women's culture, life narrative, and digital humanities. I co-direct the Scholars' Lab and serve as Faculty Director of the Graduate Digital Humanities Certificate. My digital projects is [Collective Biographies of Women](http://cbw.iath.virginia.edu).
 
 ## Practicum
 
